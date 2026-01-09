@@ -1,1 +1,25 @@
-/* You can add global styles to this file, and also import other style files */
+/* Default Light Theme styles */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+/* Automatically apply Dark Theme if Chrome/System is set to Dark */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #121212;
+    --text-color: #ffffff;
+  }
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 42px;
+  letter-spacing: 2px;
+}

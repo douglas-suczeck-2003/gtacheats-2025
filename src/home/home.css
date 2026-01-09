@@ -1,0 +1,36 @@
+.image-container {
+    display: flex;
+    /* Optional: adds space between the images */
+    gap: 20px; /* Adjust the value as needed */
+    /* Optional: center images if the container is wider */
+    justify-content: baseline;
+    /* Optional: allows images to wrap on smaller screens */
+    flex-wrap: wrap; 
+}
+
+/* Aumenta o tamanho dos logos com o mouse */
+.image-container img {
+  transition: transform 0.2s ease;
+}
+
+.image-container img:hover {
+  transform: scale(1.1);
+}
+
+/* Centraliza o conteúdo da página */
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: baseline;
+  min-height: 100vh;
+}
+
+/* container que nunca encosta na borda */
+.image-container {
+  width: 100%;
+  max-width: 1200px;
+  padding: 40px 24px;
+  box-sizing: border-box;
+  text-align: center;
+}
