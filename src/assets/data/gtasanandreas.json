@@ -1,0 +1,1295 @@
+[
+    {
+        "title": "Vida, colete e $250.000",
+        "description": "Restaura vida, armadura e adiciona dinheiro",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "cross",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "right",
+            "up"
+        ]
+    },
+    {
+        "title": "Armas set 1",
+        "description": "Conjunto básico de armas",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "r2",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "right",
+            "up"
+        ]
+    },
+    {
+        "title": "Armas set 2",
+        "description": "Conjunto intermediário de armas",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "r2",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "down",
+            "left"
+        ]
+    },
+    {
+        "title": "Armas set 3",
+        "description": "Conjunto avançado de armas",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "r2",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "down",
+            "down"
+        ]
+    },
+    {
+        "title": "Munição infinita",
+        "description": "Armas não ficam sem munição",
+        "sequence": [
+            "l1",
+            "r1",
+            "square",
+            "r1",
+            "left",
+            "r2",
+            "r1",
+            "left",
+            "square",
+            "down",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Imunidade a tiros e socos",
+        "description": "CJ fica imune a dano físico",
+        "sequence": [
+            "down",
+            "cross",
+            "right",
+            "left",
+            "right",
+            "r1",
+            "right",
+            "down",
+            "up",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Oxigênio infinito",
+        "description": "Respiração infinita debaixo d’água",
+        "sequence": [
+            "down",
+            "left",
+            "l1",
+            "down",
+            "down",
+            "r2",
+            "down",
+            "l2",
+            "down"
+        ]
+    },
+    {
+        "title": "Nunca ter fome",
+        "description": "CJ nunca sente fome",
+        "sequence": [
+            "square",
+            "l2",
+            "r1",
+            "triangle",
+            "up",
+            "square",
+            "l2",
+            "up",
+            "cross"
+        ]
+    },
+    {
+        "title": "Suicídio",
+        "description": "CJ comete suicídio",
+        "sequence": [
+            "right",
+            "l2",
+            "down",
+            "r1",
+            "left",
+            "left",
+            "r1",
+            "l1",
+            "l2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Nível assassino em todas as armas",
+        "description": "Perícia máxima com todas as armas",
+        "sequence": [
+            "down",
+            "square",
+            "cross",
+            "left",
+            "r1",
+            "r2",
+            "left",
+            "down",
+            "down",
+            "l1",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Racecar 1",
+        "description": "Carro de corrida 1",
+        "sequence": [
+            "r1",
+            "o",
+            "r2",
+            "right",
+            "l1",
+            "l2",
+            "x",
+            "x",
+            "square",
+            "r1"
+        ]
+    },
+    {
+        "title": "Racecar 2",
+        "description": "Carro de corrida 2",
+        "sequence": [
+            "r2",
+            "l1",
+            "o",
+            "right",
+            "l1",
+            "r1",
+            "right",
+            "up",
+            "o",
+            "r2"
+        ]
+    },
+    {
+        "title": "Stretch",
+        "description": "Limusine",
+        "sequence": [
+            "r2",
+            "up",
+            "l2",
+            "left",
+            "left",
+            "r1",
+            "l1",
+            "o",
+            "right"
+        ]
+    },
+    {
+        "title": "Rancher",
+        "description": "Blazer",
+        "sequence": [
+            "up",
+            "right",
+            "right",
+            "l1",
+            "right",
+            "up",
+            "square",
+            "l2"
+        ]
+    },
+    {
+        "title": "Banger",
+        "description": "Banger",
+        "sequence": [
+            "down",
+            "r1",
+            "o",
+            "l2",
+            "l2",
+            "x",
+            "r1",
+            "l1",
+            "left",
+            "left"
+        ]
+    },
+    {
+        "title": "Trashmaster",
+        "description": "Caminhão de lixo",
+        "sequence": [
+            "o",
+            "r1",
+            "o",
+            "r1",
+            "left",
+            "left",
+            "r1",
+            "l1",
+            "o",
+            "right"
+        ]
+    },
+    {
+        "title": "Caddy",
+        "description": "Carro de golfe",
+        "sequence": [
+            "o",
+            "l1",
+            "up",
+            "r1",
+            "l2",
+            "x",
+            "r1",
+            "l1",
+            "o",
+            "x"
+        ]
+    },
+    {
+        "title": "Monster",
+        "description": "Caminhão Monstro",
+        "sequence": [
+            "right",
+            "up",
+            "r1",
+            "r1",
+            "r1",
+            "down",
+            "triangle",
+            "triangle",
+            "x",
+            "o",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Dozer",
+        "description": "Trator",
+        "sequence": [
+            "r2",
+            "l1",
+            "l1",
+            "right",
+            "right",
+            "up",
+            "up",
+            "x",
+            "l1",
+            "left",
+            "left"
+        ]
+    },
+    {
+        "title": "Quad",
+        "description": "Quadriciclo",
+        "sequence": [
+            "left",
+            "left",
+            "down",
+            "down",
+            "up",
+            "up",
+            "square",
+            "o",
+            "triangle",
+            "r1",
+            "r2"
+        ]
+    },
+    {
+        "title": "Tanker Truck",
+        "description": "Caminhão de combustível",
+        "sequence": [
+            "r1",
+            "up",
+            "left",
+            "right",
+            "r2",
+            "up",
+            "right",
+            "square",
+            "right",
+            "l2",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Rhino",
+        "description": "Tanque de guerra",
+        "sequence": [
+            "o",
+            "o",
+            "l1",
+            "o",
+            "o",
+            "o",
+            "l1",
+            "l2",
+            "r1",
+            "triangle",
+            "o",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Hydra",
+        "description": "Avião caça",
+        "sequence": [
+            "triangle",
+            "triangle",
+            "square",
+            "o",
+            "x",
+            "l1",
+            "l1",
+            "down",
+            "up"
+        ]
+    },
+    {
+        "title": "Stunt Plane",
+        "description": "Avião de manobra",
+        "sequence": [
+            "o",
+            "up",
+            "l1",
+            "l2",
+            "down",
+            "r1",
+            "l1",
+            "l1",
+            "left",
+            "left",
+            "x",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Hunter",
+        "description": "Helicóptero de Guerra",
+        "sequence": [
+            "o",
+            "x",
+            "l1",
+            "o",
+            "o",
+            "l1",
+            "o",
+            "r1",
+            "r2",
+            "l2",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Vortex",
+        "description": "Barco anfíbio",
+        "sequence": [
+            "triangle",
+            "triangle",
+            "square",
+            "o",
+            "x",
+            "l1",
+            "l2",
+            "down",
+            "down"
+        ]
+    },
+    {
+        "title": "Jetpack",
+        "description": "Mochila a Jato",
+        "sequence": [
+            "up",
+            "down",
+            "left",
+            "right",
+            "r1",
+            "r2",
+            "l1",
+            "l2",
+            "up",
+            "down",
+            "left",
+            "right"
+        ]
+    },
+    {
+        "title": "Tráfego reduzido",
+        "description": "Diminui o tráfego da cidade",
+        "sequence": [
+            "x",
+            "down",
+            "up",
+            "r2",
+            "down",
+            "triangle",
+            "l1",
+            "triangle",
+            "left"
+        ]
+    },
+    {
+        "title": "Carros de luxo",
+        "description": "Spawna carros de luxo na cidade",
+        "sequence": [
+            "up",
+            "l1",
+            "r1",
+            "up",
+            "right",
+            "up",
+            "x",
+            "l2",
+            "x",
+            "l1"
+        ]
+    },
+    {
+        "title": "Carros da roça",
+        "description": "Spawna carros rurais",
+        "sequence": [
+            "l1",
+            "l1",
+            "r1",
+            "r1",
+            "l2",
+            "l1",
+            "r2",
+            "down",
+            "left",
+            "up"
+        ]
+    },
+    {
+        "title": "Carros com nitro",
+        "description": "Todos os carros têm nitro",
+        "sequence": [
+            "left",
+            "triangle",
+            "r1",
+            "l1",
+            "up",
+            "square",
+            "triangle",
+            "down",
+            "o",
+            "l2",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Carros voam",
+        "description": "Os carros passam a voar",
+        "sequence": [
+            "square",
+            "down",
+            "l2",
+            "up",
+            "l1",
+            "o",
+            "up",
+            "x",
+            "left"
+        ]
+    },
+    {
+        "title": "Dirigir na água",
+        "description": "Permite dirigir sobre a água",
+        "sequence": [
+            "right",
+            "r2",
+            "o",
+            "r1",
+            "l2",
+            "square",
+            "r1",
+            "r2"
+        ]
+    },
+    {
+        "title": "Explodir todos os veículos",
+        "description": "Explode todos os veículos da cidade",
+        "sequence": [
+            "r2",
+            "l2",
+            "r1",
+            "l1",
+            "l2",
+            "r2",
+            "square",
+            "triangle",
+            "o",
+            "triangle",
+            "l2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Colisão explosiva",
+        "description": "Ao bater em um carro, ele explode",
+        "sequence": [
+            "l1",
+            "l2",
+            "l2",
+            "up",
+            "down",
+            "down",
+            "up",
+            "r1",
+            "r2",
+            "r2"
+        ]
+    },
+    {
+        "title": "Colisão flutuante",
+        "description": "Ao bater em um carro, ele flutua",
+        "sequence": [
+            "square",
+            "r2",
+            "down",
+            "down",
+            "left",
+            "down",
+            "left",
+            "l2",
+            "x"
+        ]
+    },
+    {
+        "title": "Semáforo sempre verde",
+        "description": "Todos os sinais ficam verdes",
+        "sequence": [
+            "right",
+            "r1",
+            "up",
+            "l2",
+            "l2",
+            "left",
+            "r1",
+            "l1",
+            "r1",
+            "r1"
+        ]
+    },
+    {
+        "title": "Carros pretos",
+        "description": "Todos os carros ficam pretos",
+        "sequence": [
+            "o",
+            "l2",
+            "up",
+            "r1",
+            "left",
+            "x",
+            "r1",
+            "l1",
+            "left",
+            "o"
+        ]
+    },
+    {
+        "title": "Carros cor-de-rosa",
+        "description": "Todos os carros ficam rosa",
+        "sequence": [
+            "o",
+            "l1",
+            "down",
+            "l2",
+            "left",
+            "x",
+            "r1",
+            "l1",
+            "right",
+            "o"
+        ]
+    },
+    {
+        "title": "Barcos voam",
+        "description": "Os barcos passam a voar",
+        "sequence": [
+            "r2",
+            "o",
+            "up",
+            "l1",
+            "right",
+            "r1",
+            "right",
+            "up",
+            "square",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Mira ao dirigir",
+        "description": "Permite mirar enquanto dirige",
+        "sequence": [
+            "up",
+            "up",
+            "square",
+            "l2",
+            "right",
+            "x",
+            "r1",
+            "down",
+            "r2",
+            "o"
+        ]
+    },
+    {
+        "title": "Super sensibilidade ao dirigir",
+        "description": "Aumenta a sensibilidade da direção",
+        "sequence": [
+            "triangle",
+            "r1",
+            "r1",
+            "left",
+            "r1",
+            "l1",
+            "r2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Motoristas agressivos",
+        "description": "Motoristas ficam agressivos",
+        "sequence": [
+            "r2",
+            "o",
+            "r1",
+            "l2",
+            "up",
+            "r1",
+            "l1",
+            "r2",
+            "l2"
+        ]
+    },
+    {
+        "title": "Perícia máxima em veículos",
+        "description": "Habilidade máxima em todos os veículos",
+        "sequence": [
+            "square",
+            "l2",
+            "x",
+            "r1",
+            "l2",
+            "l2",
+            "left",
+            "r1",
+            "right",
+            "l1",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Tráfego reduzido",
+        "description": "Diminui o tráfego da cidade",
+        "sequence": [
+            "x",
+            "down",
+            "up",
+            "r2",
+            "down",
+            "triangle",
+            "l1",
+            "triangle",
+            "left"
+        ]
+    },
+    {
+        "title": "Carros de luxo",
+        "description": "Spawna carros de luxo na cidade",
+        "sequence": [
+            "up",
+            "l1",
+            "r1",
+            "up",
+            "right",
+            "up",
+            "x",
+            "l2",
+            "x",
+            "l1"
+        ]
+    },
+    {
+        "title": "Carros da roça",
+        "description": "Spawna carros rurais",
+        "sequence": [
+            "l1",
+            "l1",
+            "r1",
+            "r1",
+            "l2",
+            "l1",
+            "r2",
+            "down",
+            "left",
+            "up"
+        ]
+    },
+    {
+        "title": "Carros com nitro",
+        "description": "Todos os carros têm nitro",
+        "sequence": [
+            "left",
+            "triangle",
+            "r1",
+            "l1",
+            "up",
+            "square",
+            "triangle",
+            "down",
+            "o",
+            "l2",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Carros voam",
+        "description": "Os carros passam a voar",
+        "sequence": [
+            "square",
+            "down",
+            "l2",
+            "up",
+            "l1",
+            "o",
+            "up",
+            "x",
+            "left"
+        ]
+    },
+    {
+        "title": "Dirigir na água",
+        "description": "Permite dirigir sobre a água",
+        "sequence": [
+            "right",
+            "r2",
+            "o",
+            "r1",
+            "l2",
+            "square",
+            "r1",
+            "r2"
+        ]
+    },
+    {
+        "title": "Explodir todos os veículos",
+        "description": "Explode todos os veículos da cidade",
+        "sequence": [
+            "r2",
+            "l2",
+            "r1",
+            "l1",
+            "l2",
+            "r2",
+            "square",
+            "triangle",
+            "o",
+            "triangle",
+            "l2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Colisão explosiva",
+        "description": "Ao bater em um carro, ele explode",
+        "sequence": [
+            "l1",
+            "l2",
+            "l2",
+            "up",
+            "down",
+            "down",
+            "up",
+            "r1",
+            "r2",
+            "r2"
+        ]
+    },
+    {
+        "title": "Colisão flutuante",
+        "description": "Ao bater em um carro, ele flutua",
+        "sequence": [
+            "square",
+            "r2",
+            "down",
+            "down",
+            "left",
+            "down",
+            "left",
+            "l2",
+            "x"
+        ]
+    },
+    {
+        "title": "Semáforo sempre verde",
+        "description": "Todos os sinais ficam verdes",
+        "sequence": [
+            "right",
+            "r1",
+            "up",
+            "l2",
+            "l2",
+            "left",
+            "r1",
+            "l1",
+            "r1",
+            "r1"
+        ]
+    },
+    {
+        "title": "Carros pretos",
+        "description": "Todos os carros ficam pretos",
+        "sequence": [
+            "o",
+            "l2",
+            "up",
+            "r1",
+            "left",
+            "x",
+            "r1",
+            "l1",
+            "left",
+            "o"
+        ]
+    },
+    {
+        "title": "Carros cor-de-rosa",
+        "description": "Todos os carros ficam rosa",
+        "sequence": [
+            "o",
+            "l1",
+            "down",
+            "l2",
+            "left",
+            "x",
+            "r1",
+            "l1",
+            "right",
+            "o"
+        ]
+    },
+    {
+        "title": "Barcos voam",
+        "description": "Os barcos passam a voar",
+        "sequence": [
+            "r2",
+            "o",
+            "up",
+            "l1",
+            "right",
+            "r1",
+            "right",
+            "up",
+            "square",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Mira ao dirigir",
+        "description": "Permite mirar enquanto dirige",
+        "sequence": [
+            "up",
+            "up",
+            "square",
+            "l2",
+            "right",
+            "x",
+            "r1",
+            "down",
+            "r2",
+            "o"
+        ]
+    },
+    {
+        "title": "Super sensibilidade ao dirigir",
+        "description": "Aumenta a sensibilidade da direção",
+        "sequence": [
+            "triangle",
+            "r1",
+            "r1",
+            "left",
+            "r1",
+            "l1",
+            "r2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Motoristas agressivos",
+        "description": "Motoristas ficam agressivos",
+        "sequence": [
+            "r2",
+            "o",
+            "r1",
+            "l2",
+            "up",
+            "r1",
+            "l1",
+            "r2",
+            "l2"
+        ]
+    },
+    {
+        "title": "Perícia máxima em veículos",
+        "description": "Habilidade máxima em todos os veículos",
+        "sequence": [
+            "square",
+            "l2",
+            "x",
+            "r1",
+            "l2",
+            "l2",
+            "left",
+            "r1",
+            "right",
+            "l1",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Gangues nas ruas",
+        "description": "Gangues dominam as ruas",
+        "sequence": [
+            "l2",
+            "up",
+            "r1",
+            "r1",
+            "left",
+            "r1",
+            "r1",
+            "r2",
+            "right",
+            "down"
+        ]
+    },
+    {
+        "title": "Gangues por toda parte",
+        "description": "Cidade dominada por gangues",
+        "sequence": [
+            "left",
+            "right",
+            "right",
+            "right",
+            "left",
+            "x",
+            "down",
+            "up",
+            "square",
+            "right"
+        ]
+    },
+    {
+        "title": "Pedestres armados",
+        "description": "Pedestres recebem armas",
+        "sequence": [
+            "r2",
+            "r1",
+            "x",
+            "triangle",
+            "x",
+            "triangle",
+            "up",
+            "down"
+        ]
+    },
+    {
+        "title": "Caos",
+        "description": "Cidade entra em caos",
+        "sequence": [
+            "l2",
+            "right",
+            "l1",
+            "triangle",
+            "right",
+            "right",
+            "r1",
+            "l1",
+            "right",
+            "l1",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Pedestres se atacam",
+        "description": "Pedestres se atacam com armas",
+        "sequence": [
+            "down",
+            "left",
+            "up",
+            "left",
+            "x",
+            "r2",
+            "r1",
+            "l2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Recompensa por sua cabeça",
+        "description": "Pedestres tentam te matar",
+        "sequence": [
+            "down",
+            "up",
+            "up",
+            "up",
+            "x",
+            "r2",
+            "r1",
+            "l2",
+            "l2"
+        ]
+    },
+    {
+        "title": "Pedestres te atacam",
+        "description": "Pedestres atacam o jogador",
+        "sequence": [
+            "x",
+            "l1",
+            "up",
+            "square",
+            "down",
+            "x",
+            "l2",
+            "triangle",
+            "down",
+            "r1",
+            "l1",
+            "l1"
+        ]
+    },
+    {
+        "title": "Pedestres de praia",
+        "description": "Todos usam roupas de praia",
+        "sequence": [
+            "up",
+            "up",
+            "down",
+            "down",
+            "square",
+            "o",
+            "l1",
+            "r1",
+            "triangle",
+            "down"
+        ]
+    },
+    {
+        "title": "Prostitutas",
+        "description": "Modo prostitutas ativado",
+        "sequence": [
+            "square",
+            "right",
+            "square",
+            "square",
+            "l2",
+            "x",
+            "triangle",
+            "x",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Tema Ninja",
+        "description": "Ativa tema ninja",
+        "sequence": [
+            "x",
+            "x",
+            "down",
+            "r2",
+            "l2",
+            "o",
+            "r1",
+            "o",
+            "square"
+        ]
+    },
+    {
+        "title": "Pedestres Elvis",
+        "description": "Todos viram Elvis",
+        "sequence": [
+            "l1",
+            "o",
+            "triangle",
+            "l1",
+            "l1",
+            "square",
+            "l2",
+            "up",
+            "down",
+            "left"
+        ]
+    },
+    {
+        "title": "Modo Palhaço",
+        "description": "Pedestres palhaços e carros com suspensão",
+        "sequence": [
+            "triangle",
+            "triangle",
+            "l1",
+            "square",
+            "square",
+            "o",
+            "square",
+            "down",
+            "o"
+        ]
+    },
+    {
+        "title": "Mega Soco",
+        "description": "Super força nos socos",
+        "sequence": [
+            "up",
+            "left",
+            "x",
+            "triangle",
+            "r1",
+            "o",
+            "o",
+            "o",
+            "l2"
+        ]
+    },
+    {
+        "title": "Mega Pulo",
+        "description": "Super salto",
+        "sequence": [
+            "up",
+            "up",
+            "triangle",
+            "triangle",
+            "up",
+            "up",
+            "left",
+            "right",
+            "square",
+            "r2",
+            "r2"
+        ]
+    },
+    {
+        "title": "Super salto de bike",
+        "description": "Bikes pulam muito alto",
+        "sequence": [
+            "triangle",
+            "square",
+            "o",
+            "o",
+            "square",
+            "o",
+            "o",
+            "l1",
+            "l2",
+            "l2",
+            "r1",
+            "r2"
+        ]
+    },
+    {
+        "title": "Táxis com nitro",
+        "description": "Táxis com nitro e salto",
+        "sequence": [
+            "up",
+            "x",
+            "triangle",
+            "x",
+            "triangle",
+            "x",
+            "square",
+            "r2",
+            "right"
+        ]
+    },
+    {
+        "title": "Recrutar com 9mm",
+        "description": "Recruta pedestres com pistola",
+        "sequence": [
+            "down",
+            "square",
+            "up",
+            "r2",
+            "r2",
+            "up",
+            "right",
+            "right",
+            "up"
+        ]
+    },
+    {
+        "title": "Recrutar com lança-míssil",
+        "description": "Recruta pedestres com lança-míssil",
+        "sequence": [
+            "r2",
+            "r2",
+            "r2",
+            "x",
+            "l2",
+            "l1",
+            "r2",
+            "l1",
+            "down",
+            "x"
+        ]
+    },
+    {
+        "title": "Paraquedas",
+        "description": "Ganha paraquedas",
+        "sequence": [
+            "left",
+            "right",
+            "l1",
+            "l2",
+            "r1",
+            "r2",
+            "r2",
+            "up",
+            "down",
+            "right",
+            "l1"
+        ]
+    }
+]

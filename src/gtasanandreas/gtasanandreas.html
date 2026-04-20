@@ -1,1 +1,15 @@
-<p>gtasanandreas works!</p>
+<h1>Códigos de trapaça de Grand Theft Auto: San Andreas</h1>
+
+<div *ngFor="let cheat of cheats">
+
+  <h2>{{ cheat.title }}</h2>
+  <h4>{{ cheat.description }}</h4>
+
+  <div class="image-container">
+    <img 
+      *ngFor="let button of cheat.sequence"
+      [src]="buttons[button]"
+      width="80">
+  </div>
+
+</div>

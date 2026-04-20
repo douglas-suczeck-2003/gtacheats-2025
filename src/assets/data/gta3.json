@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Todas as armas",
+    "description": "Desbloqueia todas as armas",
+    "sequence": ["r2","r2","l1","r2","left","down","right","up","left","down","right","up"]
+  },
+  {
+    "title": "Explodir carro",
+    "description": "Explode o carro atual",
+    "sequence": ["l2","r2","l1","r1","l2","r2","triangle","square","circle","triangle","l2","l1"]
+  },
+  {
+    "title": "Clima limpo",
+    "description": "Deixa o tempo ensolarado",
+    "sequence": ["l1","l2","r1","r2","r2","r1","l2","triangle"]
+  },
+  {
+    "title": "Clima nublado",
+    "description": "Deixa o tempo nublado",
+    "sequence": ["l1","l2","r1","r2","r2","r1","l2","square"]
+  },
+  {
+    "title": "Pedestres loucos",
+    "description": "Pedestres ficam agressivos e caóticos",
+    "sequence": ["r2","r1","triangle","cross","l2","l1","up","down"]
+  },
+  {
+    "title": "Tempo acelerado",
+    "description": "Acelera o tempo do jogo",
+    "sequence": ["circle","circle","circle","square","square","square","square","square","l1","triangle","circle","triangle"]
+  },
+  {
+    "title": "Carros voadores",
+    "description": "Carros podem voar ao ganhar velocidade",
+    "sequence": ["right","r2","circle","r1","l2","down","l1","r1"]
+  },
+  {
+    "title": "Clima com neblina",
+    "description": "Ativa clima com neblina",
+    "sequence": ["l1","l2","r1","r2","r2","r1","l2","cross"]
+  },
+  {
+    "title": "Colete completo",
+    "description": "Armadura máxima",
+    "sequence": ["r2","r2","l1","l2","left","down","right","up","left","down","right","up"]
+  },
+  {
+    "title": "Saúde completa",
+    "description": "Vida máxima",
+    "sequence": ["r2","r2","l1","r1","left","down","right","up","left","down","right","up"]
+  },
+  {
+    "title": "Spawn de tanque",
+    "description": "Gera um tanque Rhino",
+    "sequence": ["circle","circle","circle","circle","circle","circle","r1","l2","l1","triangle","circle","triangle"]
+  },
+  {
+    "title": "Modo violento (Gore)",
+    "description": "Permite desmembrar NPCs",
+    "sequence": ["square","l1","circle","down","l1","r1","triangle","right","l1","cross"]
+  },
+  {
+    "title": "Direção perfeita",
+    "description": "Melhora muito a dirigibilidade dos veículos",
+    "sequence": ["r1","l1","r2","l1","left","r1","r1","triangle"]
+  },
+  {
+    "title": "Aumentar nível de procurado",
+    "description": "Aumenta o nível de procurado",
+    "sequence": ["r2","r2","l1","r2","left","right","left","right","left","right"]
+  },
+  {
+    "title": "Muito dinheiro",
+    "description": "Ganha uma grande quantia em dinheiro",
+    "sequence": ["r2","r2","l1","l1","left","down","right","up","left","down","right","up"]
+  },
+  {
+    "title": "Diminuir nível de procurado",
+    "description": "Remove estrelas de procurado",
+    "sequence": ["r2","r2","l1","r2","up","down","up","down","up","down"]
+  },
+  {
+    "title": "Carros invisíveis",
+    "description": "Deixa os carros invisíveis",
+    "sequence": ["l1","l1","square","r2","triangle","l1","triangle"]
+  },
+  {
+    "title": "Pedestres odeiam você",
+    "description": "Todos os pedestres atacam o jogador",
+    "sequence": ["down","up","left","up","cross","r1","r2","l1","l2"]
+  },
+  {
+    "title": "Pedestres brigam entre si",
+    "description": "Pedestres passam a lutar uns contra os outros",
+    "sequence": ["down","up","left","up","cross","r1","r2","l2","l1"]
+  },
+  {
+    "title": "Clima chuvoso",
+    "description": "Ativa chuva",
+    "sequence": ["l1","l2","r1","r2","r2","r1","l2","circle"]
+  },
+  {
+    "title": "Câmera lenta",
+    "description": "Deixa o jogo mais lento",
+    "sequence": ["triangle","up","right","down","square","r1","r2"]
+  },
+  {
+    "title": "Jogo acelerado",
+    "description": "Acelera a jogabilidade",
+    "sequence": ["triangle","up","right","down","square","l1","l2"]
+  },
+  {
+    "title": "Usar qualquer roupa",
+    "description": "Permite usar qualquer roupa",
+    "sequence": ["right","down","left","up","l1","l2","up","left","down","right"]
+  }
+]

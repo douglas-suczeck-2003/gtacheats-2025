@@ -1,0 +1,763 @@
+[
+    {
+        "title": "Armas nível 1",
+        "description": "Armas básicas",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "r2",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "right",
+            "up"
+        ]
+    },
+    {
+        "title": "Armas nível 2",
+        "description": "Armas intermediárias",
+        "sequence": [
+            "r2",
+            "r2",
+            "l1",
+            "r1",
+            "left",
+            "down",
+            "down",
+            "up"
+        ]
+    },
+    {
+        "title": "Armas nível 3",
+        "description": "Armas avançadas",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "r2",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "down",
+            "down"
+        ]
+    },
+    {
+        "title": "Colete completo",
+        "description": "Armadura máxima",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "cross",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "right",
+            "up"
+        ]
+    },
+    {
+        "title": "Saúde completa",
+        "description": "Vida máxima",
+        "sequence": [
+            "r1",
+            "r2",
+            "l1",
+            "circle",
+            "left",
+            "down",
+            "right",
+            "up",
+            "left",
+            "down",
+            "right",
+            "up"
+        ]
+    },
+    {
+        "title": "Suicídio",
+        "description": "Tommy comete suicídio",
+        "sequence": [
+            "right",
+            "l2",
+            "down",
+            "r1",
+            "left",
+            "left",
+            "r1",
+            "l1",
+            "l2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Nível de procurado aumentado",
+        "description": "Aumenta o nível de procurado",
+        "sequence": [
+            "r1",
+            "r1",
+            "circle",
+            "r2",
+            "left",
+            "right",
+            "left",
+            "right",
+            "left",
+            "right"
+        ]
+    },
+    {
+        "title": "Nível de procurado diminuído",
+        "description": "Diminui o nível de procurado",
+        "sequence": [
+            "r1",
+            "r1",
+            "circle",
+            "r2",
+            "up",
+            "down",
+            "up",
+            "down",
+            "up",
+            "down"
+        ]
+    },
+    {
+        "title": "Mulheres seguem você",
+        "description": "Mulheres passam a seguir o jogador",
+        "sequence": [
+            "circle",
+            "cross",
+            "l1",
+            "l1",
+            "r2",
+            "cross",
+            "cross",
+            "circle",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Jogar com Ricardo Diaz",
+        "description": "Skin do Ricardo Diaz",
+        "sequence": [
+            "l1",
+            "l2",
+            "r1",
+            "r2",
+            "down",
+            "l1",
+            "r2",
+            "l2"
+        ]
+    },
+    {
+        "title": "Jogar com Lance Vance",
+        "description": "Skin do Lance Vance",
+        "sequence": [
+            "circle",
+            "l2",
+            "left",
+            "cross",
+            "r1",
+            "l1",
+            "cross",
+            "l1"
+        ]
+    },
+    {
+        "title": "Jogar com Candy Suxxx",
+        "description": "Skin da Candy Suxxx",
+        "sequence": [
+            "circle",
+            "r2",
+            "down",
+            "r1",
+            "left",
+            "right",
+            "r1",
+            "l1",
+            "cross",
+            "l2"
+        ]
+    },
+    {
+        "title": "Jogar com Ken Rosenberg",
+        "description": "Skin do Ken Rosenberg",
+        "sequence": [
+            "right",
+            "l1",
+            "up",
+            "l2",
+            "l1",
+            "right",
+            "r1",
+            "l1",
+            "cross",
+            "r1"
+        ]
+    },
+    {
+        "title": "Jogar com Hilary King",
+        "description": "Skin do Hilary King",
+        "sequence": [
+            "r1",
+            "circle",
+            "r2",
+            "l1",
+            "right",
+            "r1",
+            "l1",
+            "cross",
+            "r2"
+        ]
+    },
+    {
+        "title": "Jogar com Love Fist Guy 1",
+        "description": "Skin Love Fist 1",
+        "sequence": [
+            "down",
+            "l1",
+            "down",
+            "l2",
+            "left",
+            "cross",
+            "r1",
+            "l1",
+            "cross",
+            "cross"
+        ]
+    },
+    {
+        "title": "Jogar com Love Fist Guy 2",
+        "description": "Skin Love Fist 2",
+        "sequence": [
+            "r1",
+            "l2",
+            "r2",
+            "l1",
+            "left",
+            "r2",
+            "right",
+            "cross",
+            "square",
+            "l1"
+        ]
+    },
+    {
+        "title": "Jogar com Phil Cassady",
+        "description": "Skin do Phil Cassady",
+        "sequence": [
+            "right",
+            "r1",
+            "up",
+            "r2",
+            "l1",
+            "right",
+            "r1",
+            "l1",
+            "circle"
+        ]
+    },
+    {
+        "title": "Jogar com Sonny Forelli",
+        "description": "Skin do Sonny Forelli",
+        "sequence": [
+            "circle",
+            "l1",
+            "circle",
+            "l2",
+            "left",
+            "cross",
+            "r1",
+            "l1",
+            "cross"
+        ]
+    },
+    {
+        "title": "Jogar com Mercedez",
+        "description": "Skin da Mercedez",
+        "sequence": [
+            "r2",
+            "l1",
+            "up",
+            "l1",
+            "right",
+            "r1",
+            "right",
+            "up",
+            "circle",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Rhino",
+        "description": "Spawn do tanque Rhino",
+        "sequence": [
+            "circle",
+            "circle",
+            "circle",
+            "l1",
+            "circle",
+            "circle",
+            "circle",
+            "l1",
+            "l2",
+            "r1",
+            "triangle",
+            "circle",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Bloodring Racer",
+        "description": "Spawn Bloodring Racer",
+        "sequence": [
+            "down",
+            "r1",
+            "circle",
+            "l2",
+            "l2",
+            "cross",
+            "r1",
+            "l1",
+            "left",
+            "left"
+        ]
+    },
+    {
+        "title": "Bloodring Banger",
+        "description": "Spawn Bloodring Banger",
+        "sequence": [
+            "up",
+            "right",
+            "right",
+            "l1",
+            "right",
+            "up",
+            "square",
+            "l2"
+        ]
+    },
+    {
+        "title": "Hotring Racer 1",
+        "description": "Spawn Hotring Racer 1",
+        "sequence": [
+            "r1",
+            "circle",
+            "r2",
+            "right",
+            "l1",
+            "l2",
+            "cross",
+            "cross",
+            "square",
+            "r1"
+        ]
+    },
+    {
+        "title": "Hotring Racer 2",
+        "description": "Spawn Hotring Racer 2",
+        "sequence": [
+            "r2",
+            "l1",
+            "circle",
+            "right",
+            "l1",
+            "r1",
+            "right",
+            "up",
+            "circle",
+            "r2"
+        ]
+    },
+    {
+        "title": "Romero's Hearse",
+        "description": "Spawn Romero's Hearse",
+        "sequence": [
+            "down",
+            "r2",
+            "down",
+            "r1",
+            "l2",
+            "left",
+            "r1",
+            "l1",
+            "left",
+            "right"
+        ]
+    },
+    {
+        "title": "Love Fist",
+        "description": "Spawn Love Fist Limo",
+        "sequence": [
+            "r2",
+            "up",
+            "l2",
+            "left",
+            "left",
+            "r1",
+            "l1",
+            "circle",
+            "right"
+        ]
+    },
+    {
+        "title": "Trashmaster",
+        "description": "Spawn Trashmaster",
+        "sequence": [
+            "circle",
+            "r1",
+            "circle",
+            "r1",
+            "left",
+            "left",
+            "r1",
+            "l1",
+            "circle",
+            "right"
+        ]
+    },
+    {
+        "title": "Sabre Turbo",
+        "description": "Spawn Sabre Turbo",
+        "sequence": [
+            "right",
+            "l2",
+            "down",
+            "l2",
+            "l2",
+            "cross",
+            "r1",
+            "l1",
+            "circle",
+            "left"
+        ]
+    },
+    {
+        "title": "Caddie",
+        "description": "Spawn Caddie",
+        "sequence": [
+            "circle",
+            "l1",
+            "up",
+            "r1",
+            "l2",
+            "cross",
+            "r1",
+            "l1",
+            "circle",
+            "cross"
+        ]
+    },
+    {
+        "title": "Explodir todos os carros",
+        "description": "Todos os veículos explodem",
+        "sequence": [
+            "r2",
+            "l2",
+            "r1",
+            "l1",
+            "l2",
+            "r2",
+            "square",
+            "triangle",
+            "circle",
+            "triangle",
+            "l2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Motoristas violentos",
+        "description": "Motoristas ficam agressivos",
+        "sequence": [
+            "r2",
+            "circle",
+            "r1",
+            "l2",
+            "left",
+            "r1",
+            "l1",
+            "r2",
+            "l2"
+        ]
+    },
+    {
+        "title": "Carros rosas",
+        "description": "Todos os carros ficam rosas",
+        "sequence": [
+            "circle",
+            "l1",
+            "down",
+            "l2",
+            "left",
+            "cross",
+            "r1",
+            "l1",
+            "right",
+            "circle"
+        ]
+    },
+    {
+        "title": "Carros pretos",
+        "description": "Todos os carros ficam pretos",
+        "sequence": [
+            "circle",
+            "l2",
+            "up",
+            "r1",
+            "left",
+            "cross",
+            "r1",
+            "l1",
+            "right",
+            "circle"
+        ]
+    },
+    {
+        "title": "Carro desliza",
+        "description": "Veículos perdem aderência",
+        "sequence": [
+            "right",
+            "r2",
+            "circle",
+            "r1",
+            "l2",
+            "down",
+            "l1",
+            "r1"
+        ]
+    },
+    {
+        "title": "Direção perfeita",
+        "description": "Melhora a dirigibilidade",
+        "sequence": [
+            "triangle",
+            "r1",
+            "r1",
+            "left",
+            "r1",
+            "l1",
+            "r2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Pedestres em motim",
+        "description": "Pedestres entram em motim",
+        "sequence": [
+            "down",
+            "left",
+            "up",
+            "left",
+            "cross",
+            "r2",
+            "r1",
+            "l2",
+            "l1"
+        ]
+    },
+    {
+        "title": "Pedestres odeiam você",
+        "description": "Pedestres atacam o jogador",
+        "sequence": [
+            "down",
+            "up",
+            "up",
+            "up",
+            "cross",
+            "r2",
+            "r1",
+            "left",
+            "left"
+        ]
+    },
+    {
+        "title": "Pedestres armados",
+        "description": "Pedestres recebem armas",
+        "sequence": [
+            "r2",
+            "r1",
+            "cross",
+            "triangle",
+            "cross",
+            "triangle",
+            "up",
+            "down"
+        ]
+    },
+    {
+        "title": "Carros flutuam na água",
+        "description": "Veículos flutuam na água",
+        "sequence": [
+            "right",
+            "r2",
+            "circle",
+            "r1",
+            "l2",
+            "square",
+            "r1",
+            "r2"
+        ]
+    },
+    {
+        "title": "Muda o tamanho dos pneus",
+        "description": "Altera tamanho dos pneus",
+        "sequence": [
+            "r1",
+            "cross",
+            "triangle",
+            "right",
+            "r2",
+            "square",
+            "up",
+            "down",
+            "square"
+        ]
+    },
+    {
+        "title": "Policiais ressuscitam",
+        "description": "Policiais retornam após mortos",
+        "sequence": [
+            "circle",
+            "l1",
+            "down",
+            "l2",
+            "left",
+            "cross",
+            "r1",
+            "l1",
+            "right",
+            "cross"
+        ]
+    },
+    {
+        "title": "Mulheres armadas e de biquíni",
+        "description": "Mulheres armadas aparecem pela cidade",
+        "sequence": [
+            "right",
+            "l1",
+            "circle",
+            "l2",
+            "left",
+            "cross",
+            "r1",
+            "l1",
+            "l1",
+            "cross"
+        ]
+    },
+    {
+        "title": "Dia ensolarado",
+        "description": "Clima ensolarado",
+        "sequence": [
+            "r2",
+            "cross",
+            "l1",
+            "l1",
+            "l2",
+            "l2",
+            "l2",
+            "down"
+        ]
+    },
+    {
+        "title": "Dia nublado",
+        "description": "Clima nublado",
+        "sequence": [
+            "r2",
+            "cross",
+            "l1",
+            "l1",
+            "l2",
+            "l2",
+            "l2",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Dia muito nublado",
+        "description": "Clima muito nublado",
+        "sequence": [
+            "r2",
+            "cross",
+            "l1",
+            "l1",
+            "l2",
+            "l2",
+            "l2",
+            "square"
+        ]
+    },
+    {
+        "title": "Dia com neblina",
+        "description": "Clima com neblina",
+        "sequence": [
+            "r2",
+            "cross",
+            "l1",
+            "l1",
+            "l2",
+            "l2",
+            "l2",
+            "circle"
+        ]
+    },
+    {
+        "title": "Dia com tempestade",
+        "description": "Clima com tempestade",
+        "sequence": [
+            "r2",
+            "cross",
+            "l1",
+            "l1",
+            "l2",
+            "l2",
+            "l2",
+            "cross"
+        ]
+    },
+    {
+        "title": "Tempo acelerado",
+        "description": "Acelera o tempo do jogo",
+        "sequence": [
+            "circle",
+            "circle",
+            "l1",
+            "square",
+            "l1",
+            "square",
+            "square",
+            "square",
+            "l1",
+            "triangle",
+            "circle",
+            "triangle"
+        ]
+    },
+    {
+        "title": "Tempo lento",
+        "description": "Deixa o tempo mais lento",
+        "sequence": [
+            "triangle",
+            "up",
+            "right",
+            "down",
+            "square",
+            "r2",
+            "r1"
+        ]
+    }
+]
